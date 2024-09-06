@@ -1,6 +1,9 @@
 # Amazon Products Analytics - Power BI Dashboard
 Dashboard Link- https://app.powerbi.com/groups/me/reports/3376a17f-f39a-43b6-bc2a-8f8c57abc668/ReportSection?experience=power-bi
 
+<img width="738" alt="image" src="https://github.com/user-attachments/assets/3bec4b1b-d0de-4955-af94-74b1e0173bc3">
+
+
 ## Introduction
 This Power BI dashboard provides a comprehensive analysis of Amazon sales data for Q1 2023 in India.
 It offers insights into key sales metrics across various dimensions such as city, state, and product category. 
