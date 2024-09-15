@@ -1,6 +1,6 @@
 # Amazon Products Analytics - Power BI Dashboard
 Dashboard Link- https://app.powerbi.com/groups/me/reports/3376a17f-f39a-43b6-bc2a-8f8c57abc668/ReportSection?experience=power-bi
-
+.
 <img width="715" alt="image" src="https://github.com/user-attachments/assets/2189f84f-4b5b-4ebc-add3-7a67c7117c1a">
 
 ## Introduction
